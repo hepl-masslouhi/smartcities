@@ -56,7 +56,7 @@ Sa structure s’organise autour de plusieurs éléments essentiels :
 
 
 
-J’ai choisi comme environnement de développement Visual Studio Code, un IDE qui permet de programmer dans quasiment tous les langages existants.
+J’ai choisi Visual Studio Code comme environnement de développement, un IDE avec lequel j’ai déjà travaillé auparavant. Il offre une grande flexibilité et permet de programmer dans la quasi-totalité des langages existants.
 
 Pour programmer en MicroPython sur le Raspberry Pi Pico W, il suffit d’ajouter l’extension MicroPico.
 
