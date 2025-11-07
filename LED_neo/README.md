@@ -36,5 +36,6 @@ Le rythme est également calculé en BPM et les valeurs moyennes sont sauvegard�
 
 ## Diagramme du code
 
+<img width="2612" height="1350" alt="Image" src="https://github.com/user-attachments/assets/a9785b58-47a1-414b-89f5-3fca639f63b4" />
 
 
