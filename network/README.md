@@ -51,4 +51,6 @@ Un bouton permet de changer le fuseau horaire et d’activer le mode 24 heures.
 5. Observer le servo indiquer l’heure actuelle et répondre aux appuis sur le bouton.
 
 ## Diagramme du code
+<img width="556" height="1391" alt="Image" src="https://github.com/user-attachments/assets/d1f26985-cd4f-4930-9e4b-e7d62c8f9fae" />
+
 
